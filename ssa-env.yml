@@ -1,0 +1,15 @@
+name: SSA
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - theano
+  - pytest
+  - pathlib
+prefix: /opt/miniconda3/envs/SSA
